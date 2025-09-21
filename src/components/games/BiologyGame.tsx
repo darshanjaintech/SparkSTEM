@@ -134,9 +134,9 @@ const BiologyGame = ({ onClose }: BiologyGameProps) => {
     <h2>Level 3: Build a Balanced Diet Plate</h2>
     <div id="plate-foods">
       <div class="plate-item" draggable="true" data-group="Carbs">Chapati 🫓</div>
-      <div class="plate-item" draggable="true" data-group="Proteins">Tofu 🥛</div>
+      <div class="plate-item" draggable="true" data-group="Proteins">Dal 🍲</div>
       <div class="plate-item" draggable="true" data-group="Vitamins">Salad 🥗</div>
-      <div class="plate-item" draggable="true" data-group="Fats">Oil 🛢</div>
+      <div class="plate-item" draggable="true" data-group="Fats">Ghee 🧈</div>
       <div class="plate-item" draggable="true" data-group="Minerals">Milk 🥛</div>
     </div>
     <div id="plate">
