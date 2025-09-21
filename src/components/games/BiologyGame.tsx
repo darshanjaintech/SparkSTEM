@@ -100,7 +100,7 @@ const BiologyGame = ({ onClose }: BiologyGameProps) => {
     <h2>Level 1: Match Food with Nutrient</h2>
     <div id="foods">
       <div class="food-item" draggable="true" data-nutrient="Carbohydrates">Rice 🍚</div>
-      <div class="food-item" draggable="true" data-nutrient="Proteins">Lentils 🫘</div>
+      <div class="food-item" draggable="true" data-nutrient="Proteins">Paneer 🧀</div>
       <div class="food-item" draggable="true" data-nutrient="Fats">Butter 🧈</div>
       <div class="food-item" draggable="true" data-nutrient="Vitamins">Orange 🍊</div>
       <div class="food-item" draggable="true" data-nutrient="Minerals">Spinach 🥬</div>
@@ -134,7 +134,7 @@ const BiologyGame = ({ onClose }: BiologyGameProps) => {
     <h2>Level 3: Build a Balanced Diet Plate</h2>
     <div id="plate-foods">
       <div class="plate-item" draggable="true" data-group="Carbs">Chapati 🫓</div>
-      <div class="plate-item" draggable="true" data-group="Proteins">Dal 🍲</div>
+      <div class="plate-item" draggable="true" data-group="Proteins">Tofu 🥛</div>
       <div class="plate-item" draggable="true" data-group="Vitamins">Salad 🥗</div>
       <div class="plate-item" draggable="true" data-group="Fats">Oil 🛢</div>
       <div class="plate-item" draggable="true" data-group="Minerals">Milk 🥛</div>
